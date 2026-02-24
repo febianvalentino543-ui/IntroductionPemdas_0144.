@@ -11,4 +11,11 @@ int main() {
     cout << "Hello World!" << endl;
     cout << "Saya sedang belajar C++" << endl;
     cout << "C++ adalah bahasa pemrograman yang powerful!" << endl;
+    cout << "Saya sangat menikmati belajar C++!" << endl;
+    cout << "C++ memungkinkan saya untuk membuat berbagai jenis aplikasi!" << endl;
+    cout << "Saya ingin menjadi seorang programmer C++ yang handal!" << endl;
+    cout << "Terima kasih telah membaca pesan saya!" << endl;
+    cout << "Semoga hari Anda menyenangkan!" << endl;
+    cout << "Sampai jumpa lagi!" << endl;
+    cout << "Selamat belajar C++!" << endl;
 }
